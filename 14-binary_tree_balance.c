@@ -18,7 +18,8 @@ int binary_tree_balance_(const binary_tree_t *tree)
 }
 
 /**
-* binary_tree_balance - function that measures the balance factor of a binary tree
+* binary_tree_balance - function that measures the
+* balance factor of a binary tree
 * @tree: const function binary_tree_t
 * Return: If tree is NULL, return 0
 */
